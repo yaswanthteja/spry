@@ -8,7 +8,7 @@ AzureLink https://sprystores.azurewebsites.net
 Youtube Video link :https://www.youtube.com/watch?v=5nGzBcdhhEc
 
 
-![Youtube video]( https://img.youtube.com/VID5nGzBcdhhEc//0.jpg)](https://www.youtube.com/watch?v=VID5nGzBcdhhEc)
+[![Youtube video](https://img.youtube.com/VID5nGzBcdhhEc//0.jpg)](https://www.youtube.com/watch?v=VID5nGzBcdhhEc)
 
  ### Features of this Ecommerce Website
 
