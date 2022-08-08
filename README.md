@@ -22,14 +22,14 @@ AzureLink https://sprystores.azurewebsites.net
 - Responsive SignUp Page
 
 
-[Screenshot1](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot1.png)
+![Screenshot1](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot1.png)
 
-[SCreenshot2](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot2.png)
+![SCreenshot2](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot2.png)
 
-[Screenshot3](https://github.com/yaswanthteja/spry/blob/master/screenshots/Screenshot3.png)
+![Screenshot3](https://github.com/yaswanthteja/spry/blob/master/screenshots/Screenshot3.png)
 
-[screenshot4](https://github.com/yaswanthteja/spry/blob/master/screenshots/Screenshot4.png)
+![screenshot4](https://github.com/yaswanthteja/spry/blob/master/screenshots/Screenshot4.png)
 
 
-[screenshot](https://github.com/yaswanthteja/spry/blob/master/screenshots/Screenshot5.png)
+![screenshot](https://github.com/yaswanthteja/spry/blob/master/screenshots/Screenshot5.png)
 
