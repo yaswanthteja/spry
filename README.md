@@ -1,14 +1,13 @@
 # Sprystore
 
-Spry Store is a Ecommerce website and built  using Html ,Css  JavaScript  for the website and for hosting the website 
-i used Azure services like  Azure web App ,API management, Azure App Services to host this website in the Azure services i used free tier .
-
+Spry Store is a Ecommerce website and built  using Html , Css  JavaScript   and for hosting the website 
+i used Azure services like  Azure web App , API management, Azure App Services.
 AzureLink https://sprystores.azurewebsites.net
 
 Youtube Video link :https://www.youtube.com/watch?v=5nGzBcdhhEc
 
 
-[![Youtube video](https://img.youtube.com/vi/5nGzBcdhhEc//0.jpg)](https://www.youtube.com/watch?v=5nGzBcdhhEc)
+[![Youtubevideo](https://img.youtube.com/vi/5nGzBcdhhEc//0.jpg)](https://www.youtube.com/watch?v=5nGzBcdhhEc)
 
  ### Features of this Ecommerce Website
 
