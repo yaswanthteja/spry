@@ -24,7 +24,7 @@ Youtube Video link :https://www.youtube.com/watch?v=5nGzBcdhhEc
 - Responsive Login Page
 - Responsive SignUp Page
 
-![Screenshot1](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot1.png)
+![S](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot1.png)
 
 ![SCreenshot2](https://github.com/yaswanthteja/spry/blob/master/screenshots/screenshot2.png)
 
